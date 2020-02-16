@@ -4,12 +4,12 @@ body{
 
 h1 {
     color: white;
-    font-size: 90px;
-    font-weight: 600;
+    font-size: 100px;
+    font-weight: 500;
     text-align: center;
     border : 10px solid white;
     position : relative;
-    top: 100px;
+    top: 150px;
     width : 800px;
     margin: 0 auto;
   }
@@ -20,4 +20,23 @@ h1 {
     height: 700px;
     width : 100%;
 }
-
+.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  .gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  .gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .desc {
+    padding: 15px;
+    text-align: center;
+  }
