@@ -13,12 +13,10 @@ h2{
 #banner{
     background-image: url ('banner.jpg');
     background-size: cover;
-    background-position: center;
-    height: 400px;
-    width: 100%;
+
 }
 
-#banner .content{
+#banner .content h2{
     border : 3px solid black;
     position : relative;
     top: 50px;
