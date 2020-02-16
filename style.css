@@ -9,14 +9,14 @@ h1 {
     text-align: center;
     border : 10px solid white;
     position : relative;
-    top: 200px;
-    width : 800px;
+    top: 175px;
+    width : 700px;
     margin: 0 auto;
   }
   #banner{
     background-image: url('https://img4.goodfon.com/original/3000x1875/9/e8/clownfish-ryba-kloun-rybki-akvarium.jpg');
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 700px;
     width : 100%;
 }
