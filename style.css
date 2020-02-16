@@ -7,6 +7,11 @@ h1 {
     font-size: 90px;
     font-weight: 600;
     text-align: center;
+    border : 3px solid black;
+    position : relative;
+    top: 50px;
+    width : 400px;
+    margin: 0 auto;
   }
   #banner{
     background-image: url('https://img4.goodfon.com/original/3000x1875/9/e8/clownfish-ryba-kloun-rybki-akvarium.jpg');
@@ -16,12 +21,4 @@ h1 {
     width : 90%;
 }
 
-#banner .content h1{
-    border : 3px solid black;
-    position : relative;
-    top: 50px;
-    width : 400px;
-    margin: 0 auto;
-
-}
 
