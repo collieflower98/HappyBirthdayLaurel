@@ -2,10 +2,21 @@ body{
     background-color : white;
 }
 
-h1{
-    font-size: 90px; 
-    text-align: center;
+h1 {
     color: white;
+    font-size: 42px;
+    font-weight: 600;
+    text-align: center;
+  }
+  #banner{
+    background-image: url('https://img4.goodfon.com/original/3000x1875/9/e8/clownfish-ryba-kloun-rybki-akvarium.jpg');
+    background-size: cover;
+    background-position:  bottom center;
+    height: 700px;
+    width : 100%;
+}
+
+#banner.content h1{
     border : 3px solid black;
     position : relative;
     top: 50px;
@@ -14,10 +25,3 @@ h1{
 
 }
 
-#banner{
-    background-image: url('https://img4.goodfon.com/original/3000x1875/9/e8/clownfish-ryba-kloun-rybki-akvarium.jpg');
-    background-size: cover;
-    background-position:  center;
-    height: 500px;
-    width : 100%;
-}
