@@ -11,9 +11,17 @@ h2{
 }
 
 #banner{
-    background-image: url ("../pics/banner.jpg");
+    background-image: url ('./pics/banner.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
     width: 100%;
+}
+
+#banner .content{
+    border : 3px solid white;
+    position : relative;
+    top: 50px;
+    width : 400px;
+    margin: 0 auto;
 }
