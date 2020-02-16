@@ -1,9 +1,19 @@
 h1{
     font-size: 90px; 
     text-align: center;
-    font-family: cursive;
+    color: white;
+    
 } 
 h2{
     font-size : 60px;
     text-align: center;
+    color: white;
+}
+
+#banner{
+    background-image: url ("../pics/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
 }
