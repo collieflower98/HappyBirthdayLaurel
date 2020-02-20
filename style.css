@@ -29,18 +29,18 @@ h1 {
   
   /* Create four equal columns that sits next to each other */
   .column {
-    flex: 22%;
-    max-width: 22%;
-    padding: 0 13px;
+    flex: 22.5%;
+    max-width: 22.5%;
+    padding: 0 11px;
   }
   
   .column img {
-    margin-top: 26px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
   .column video {
-    margin-top: 26px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
