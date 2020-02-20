@@ -32,16 +32,16 @@ h1 {
   .column {
     flex: 22.5%;
     max-width: 22.5%;
-    padding: 0 10px;
+    padding: 0 11px;
   }
   
   .column img {
-    margin-top: 20px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
   .column video {
-    margin-top: 20px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
