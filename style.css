@@ -29,8 +29,8 @@ h1 {
   
   /* Create four equal columns that sits next to each other */
   .column {
-    flex: 22.5%;
-    max-width: 22.5%;
+    flex: 23%;
+    max-width: 23%;
     padding: 0 10px;
   }
   
