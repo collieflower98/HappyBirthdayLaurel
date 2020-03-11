@@ -6,9 +6,11 @@ body{
 h1 {
     color: white;
     font-size: 100px;
-    font-weight: 500;
+    font-weight: 550;
     text-align: center;
-    border : 10px solid white;
+    border : 15px solid white;
+    border-spacing: 10px;
+    padding: 10px;
     position : relative;
     top: 175px;
     width : 60%;
@@ -31,16 +33,16 @@ h1 {
   .column {
     flex: 22.5%;
     max-width: 22.5%;
-    padding: 0 10px;
+    padding: 0 11px;
   }
   
   .column img {
-    margin-top: 20px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
   .column video {
-    margin-top: 20px;
+    margin-top: 22px;
     vertical-align: middle;
     width: 100%;
   }
